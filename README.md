@@ -6,3 +6,7 @@ So you make a front end to connect with Keplr to unjail.
 npm install
 npm run dev
 ```
+Open your browser  
+```
+http://0.0.0.0:5173
+```
